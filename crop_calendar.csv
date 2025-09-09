@@ -1,0 +1,145 @@
+District,Crop,Season,Sowing_Start_Month,Sowing_End_Month,Harvesting_Start_Month,Harvesting_End_Month,Growth_Duration_Days,Water_Requirement,Suitable_Soil_Types,Best_Temperature_Range_C,Irrigation_Needed,Monsoon_Dependent
+Ranchi,Rice,Kharif,June,July,October,November,116,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Dhanbad,Rice,Kharif,June,July,October,November,129,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Dumka,Rice,Kharif,June,July,October,November,124,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Bokaro,Rice,Kharif,June,July,October,November,120,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Chatra,Rice,Kharif,June,July,October,November,117,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Deoghar,Rice,Kharif,June,July,October,November,130,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+East Singhbhum,Rice,Kharif,June,July,October,November,116,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Garhwa,Rice,Kharif,June,July,October,November,128,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Giridih,Rice,Kharif,June,July,October,November,120,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Godda,Rice,Kharif,June,July,October,November,120,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Gumla,Rice,Kharif,June,July,October,November,130,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Hazaribagh,Rice,Kharif,June,July,October,November,113,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Jamtara,Rice,Kharif,June,July,October,November,117,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Khunti,Rice,Kharif,June,July,October,November,112,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Koderma,Rice,Kharif,June,July,October,November,130,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Latehar,Rice,Kharif,June,July,October,November,111,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Lohardaga,Rice,Kharif,June,July,October,November,121,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Pakur,Rice,Kharif,June,July,October,November,115,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Palamu,Rice,Kharif,June,July,October,November,111,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Ramgarh,Rice,Kharif,June,July,October,November,130,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Sahebganj,Rice,Kharif,June,July,October,November,110,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Saraikela-Kharsawan,Rice,Kharif,June,July,October,November,121,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Simdega,Rice,Kharif,June,July,October,November,121,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+West Singhbhum,Rice,Kharif,June,July,October,November,126,High,"Clay, Loamy, Alluvial",20-30,Rain-fed/Canal,Yes
+Ranchi,Maize,Kharif,June,July,September,October,89,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Dhanbad,Maize,Kharif,June,July,September,October,95,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Dumka,Maize,Kharif,June,July,September,October,94,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Bokaro,Maize,Kharif,June,July,September,October,94,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Chatra,Maize,Kharif,June,July,September,October,98,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Deoghar,Maize,Kharif,June,July,September,October,91,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+East Singhbhum,Maize,Kharif,June,July,September,October,99,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Garhwa,Maize,Kharif,June,July,September,October,82,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Giridih,Maize,Kharif,June,July,September,October,84,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Godda,Maize,Kharif,June,July,September,October,98,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Gumla,Maize,Kharif,June,July,September,October,86,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Hazaribagh,Maize,Kharif,June,July,September,October,100,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Jamtara,Maize,Kharif,June,July,September,October,88,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Khunti,Maize,Kharif,June,July,September,October,86,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Koderma,Maize,Kharif,June,July,September,October,97,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Latehar,Maize,Kharif,June,July,September,October,83,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Lohardaga,Maize,Kharif,June,July,September,October,93,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Pakur,Maize,Kharif,June,July,September,October,97,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Palamu,Maize,Kharif,June,July,September,October,88,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Ramgarh,Maize,Kharif,June,July,September,October,100,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Sahebganj,Maize,Kharif,June,July,September,October,81,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Saraikela-Kharsawan,Maize,Kharif,June,July,September,October,99,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Simdega,Maize,Kharif,June,July,September,October,94,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+West Singhbhum,Maize,Kharif,June,July,September,October,86,Medium,"Loamy, Red and Yellow, Sandy Loam",21-27,Rain-fed/Canal,Yes
+Ranchi,Wheat,Rabi,October,November,March,April,151,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Dhanbad,Wheat,Rabi,October,November,March,April,147,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Dumka,Wheat,Rabi,October,November,March,April,154,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Bokaro,Wheat,Rabi,October,November,March,April,142,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Chatra,Wheat,Rabi,October,November,March,April,153,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Deoghar,Wheat,Rabi,October,November,March,April,156,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+East Singhbhum,Wheat,Rabi,October,November,March,April,143,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Garhwa,Wheat,Rabi,October,November,March,April,157,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Giridih,Wheat,Rabi,October,November,March,April,147,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Godda,Wheat,Rabi,October,November,March,April,143,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Gumla,Wheat,Rabi,October,November,March,April,141,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Hazaribagh,Wheat,Rabi,October,November,March,April,145,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Jamtara,Wheat,Rabi,October,November,March,April,149,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Khunti,Wheat,Rabi,October,November,March,April,143,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Koderma,Wheat,Rabi,October,November,March,April,157,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Latehar,Wheat,Rabi,October,November,March,April,151,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Lohardaga,Wheat,Rabi,October,November,March,April,141,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Pakur,Wheat,Rabi,October,November,March,April,149,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Palamu,Wheat,Rabi,October,November,March,April,143,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Ramgarh,Wheat,Rabi,October,November,March,April,153,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Sahebganj,Wheat,Rabi,October,November,March,April,155,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Saraikela-Kharsawan,Wheat,Rabi,October,November,March,April,154,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Simdega,Wheat,Rabi,October,November,March,April,147,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+West Singhbhum,Wheat,Rabi,October,November,March,April,153,Medium,"Alluvial, Sandy Loam, Loamy",15-25,Canal/Well,No
+Ranchi,Pulses,Kharif,June,July,September,October,87,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Ranchi,Pulses,Rabi,October,November,February,March,130,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Dhanbad,Pulses,Kharif,June,July,September,October,95,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Dhanbad,Pulses,Rabi,October,November,February,March,122,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Dumka,Pulses,Kharif,June,July,September,October,97,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Dumka,Pulses,Rabi,October,November,February,March,124,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Bokaro,Pulses,Kharif,June,July,September,October,100,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Bokaro,Pulses,Rabi,October,November,February,March,122,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Chatra,Pulses,Kharif,June,July,September,October,88,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Chatra,Pulses,Rabi,October,November,February,March,124,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Deoghar,Pulses,Kharif,June,July,September,October,92,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Deoghar,Pulses,Rabi,October,November,February,March,110,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+East Singhbhum,Pulses,Kharif,June,July,September,October,86,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+East Singhbhum,Pulses,Rabi,October,November,February,March,118,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Garhwa,Pulses,Kharif,June,July,September,October,80,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Garhwa,Pulses,Rabi,October,November,February,March,121,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Giridih,Pulses,Kharif,June,July,September,October,87,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Giridih,Pulses,Rabi,October,November,February,March,120,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Godda,Pulses,Kharif,June,July,September,October,98,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Godda,Pulses,Rabi,October,November,February,March,126,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Gumla,Pulses,Kharif,June,July,September,October,87,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Gumla,Pulses,Rabi,October,November,February,March,112,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Hazaribagh,Pulses,Kharif,June,July,September,October,82,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Hazaribagh,Pulses,Rabi,October,November,February,March,110,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Jamtara,Pulses,Kharif,June,July,September,October,84,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Jamtara,Pulses,Rabi,October,November,February,March,119,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Khunti,Pulses,Kharif,June,July,September,October,86,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Khunti,Pulses,Rabi,October,November,February,March,118,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Koderma,Pulses,Kharif,June,July,September,October,86,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Koderma,Pulses,Rabi,October,November,February,March,118,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Latehar,Pulses,Kharif,June,July,September,October,87,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Latehar,Pulses,Rabi,October,November,February,March,121,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Lohardaga,Pulses,Kharif,June,July,September,October,81,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Lohardaga,Pulses,Rabi,October,November,February,March,110,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Pakur,Pulses,Kharif,June,July,September,October,95,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Pakur,Pulses,Rabi,October,November,February,March,114,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Palamu,Pulses,Kharif,June,July,September,October,82,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Palamu,Pulses,Rabi,October,November,February,March,121,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Ramgarh,Pulses,Kharif,June,July,September,October,87,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Ramgarh,Pulses,Rabi,October,November,February,March,112,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Sahebganj,Pulses,Kharif,June,July,September,October,80,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Sahebganj,Pulses,Rabi,October,November,February,March,112,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Saraikela-Kharsawan,Pulses,Kharif,June,July,September,October,84,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Saraikela-Kharsawan,Pulses,Rabi,October,November,February,March,124,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Simdega,Pulses,Kharif,June,July,September,October,93,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+Simdega,Pulses,Rabi,October,November,February,March,112,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+West Singhbhum,Pulses,Kharif,June,July,September,October,80,Low,"Sandy Loam, Clayey, Laterite",20-30,Rain-fed/Canal,Yes
+West Singhbhum,Pulses,Rabi,October,November,February,March,114,Low,"Sandy Loam, Clayey, Laterite",15-25,Canal/Well,No
+Ranchi,Sugarcane,Annual,February,March,January,March,368,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Dhanbad,Sugarcane,Annual,February,March,January,March,361,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Dumka,Sugarcane,Annual,February,March,January,March,363,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Bokaro,Sugarcane,Annual,February,March,January,March,369,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Chatra,Sugarcane,Annual,February,March,January,March,369,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Deoghar,Sugarcane,Annual,February,March,January,March,364,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+East Singhbhum,Sugarcane,Annual,February,March,January,March,367,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Garhwa,Sugarcane,Annual,February,March,January,March,373,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Giridih,Sugarcane,Annual,February,March,January,March,361,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Godda,Sugarcane,Annual,February,March,January,March,371,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Gumla,Sugarcane,Annual,February,March,January,March,374,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Hazaribagh,Sugarcane,Annual,February,March,January,March,358,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Jamtara,Sugarcane,Annual,February,March,January,March,359,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Khunti,Sugarcane,Annual,February,March,January,March,361,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Koderma,Sugarcane,Annual,February,March,January,March,367,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Latehar,Sugarcane,Annual,February,March,January,March,369,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Lohardaga,Sugarcane,Annual,February,March,January,March,365,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Pakur,Sugarcane,Annual,February,March,January,March,358,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Palamu,Sugarcane,Annual,February,March,January,March,367,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Ramgarh,Sugarcane,Annual,February,March,January,March,361,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Sahebganj,Sugarcane,Annual,February,March,January,March,373,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Saraikela-Kharsawan,Sugarcane,Annual,February,March,January,March,356,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+Simdega,Sugarcane,Annual,February,March,January,March,364,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
+West Singhbhum,Sugarcane,Annual,February,March,January,March,367,Very High,"Sandy, Alluvial, Loamy",20-30,Canal/Well,Partial
