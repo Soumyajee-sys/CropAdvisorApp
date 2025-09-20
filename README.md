@@ -56,8 +56,6 @@ A machine learning-powered mobile application that provides personalized crop re
 
 ## Research and References
 
-- [Precision agriculture with AI](https://www.sciencedirect.com/science/article/pii/S0168169919303957)
-- [Machine learning in crop recommendation](https://ieeexplore.ieee.org/document/9053277)
 - [FastAPI documentation](https://fastapi.tiangolo.com/)
 - [React Native docs](https://reactnative.dev/)
 - [OpenStreetMap Nominatim](https://nominatim.org/release-docs/latest/api/Reverse/)
